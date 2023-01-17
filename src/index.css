@@ -45,3 +45,15 @@ body {
   border-right-width: 2px;
   border-color: rgb(174, 169, 180);
 }
+
+.project--upvit {
+  background-image: url("./assets/project-uppvit-bg.jpg");
+}
+
+.project--supercombat {
+  background-image: url("./assets/project-supercombat-bg.jpg");
+}
+
+.project--spynix {
+  background-image: url("./assets/project-spynix-bg.jpg");
+}

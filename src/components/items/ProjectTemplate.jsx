@@ -80,7 +80,7 @@ export default function ProjectTemplate(props) {
             </div>
 
             {/*SMALL SCREEN*/}
-            <div className={`mt-12 md:hidden p-6 rounded-sm bg-[url('${props.imgBg}')] bg-cover`}>
+            <div className={`${props.className} mt-12 md:hidden p-6 rounded-sm bg-[url('${props.imgBg}')] bg-cover`}>
                 <p className="text-secondary text-[13px] font-spacemono text-left">Featured Project</p>
                 <p onClick={() => window.open(props.url)} className="transition ease-in-out duration-500 cursor-pointer hover:text-secondary text-dimWhite font-inter font-bold text-[22px] tracking-wide">{props.title}</p>
                 <p className="mt-4 text-gray-400 font-inter">{props.desc}</p>

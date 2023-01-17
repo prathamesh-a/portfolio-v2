@@ -80,7 +80,8 @@ export const projects = [
         bg: "./assets/project-uppvit-bg.jpg",
         playBtn: false,
         url: "https://github.com/prathamesh-a/uppvit-api",
-        align: "left"
+        align: "left",
+        className: "project--upvit"
     },
     {
         title: "Super Combat",
@@ -96,7 +97,8 @@ export const projects = [
         bg: "./assets/project-supercombat-bg.jpg",
         playBtn: true,
         url: "https://prathamesh-a.github.io/super-combat/",
-        align: "right"
+        align: "right",
+        className: "project--supercombat"
     },
     {
         title: "Spynix",
@@ -112,7 +114,8 @@ export const projects = [
         bg: "./assets/project-spynix-bg.jpg",
         playBtn: false,
         url: "https://github.com/prathamesh-a/spynix-logger",
-        align: "left"
+        align: "left",
+        className: "project--spynix"
     }
 ]
 

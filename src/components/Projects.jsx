@@ -22,6 +22,7 @@ export default function Projects() {
                             align={data.align}
                             playBtn={data.playBtn}
                             url={data.url}
+                            className={data.className}
                         />
                     )
                 }
