@@ -75,9 +75,9 @@ export const projects = [
             hover: "https://img.icons8.com/windows/50/A159FF/github.png",
             url: "https://github.com/prathamesh-a/uppvit-api"
         },
-        img: "../assets/projects/project-uppvit-overlay.jpg",
-        hover: "../assets/projects/project-uppvit.jpg",
-        bg: "../assets/projects/project-uppvit-bg.jpg",
+        img: "./assets/project-uppvit-overlay.jpg",
+        hover: "./assets/project-uppvit.jpg",
+        bg: "./assets/project-uppvit-bg.jpg",
         playBtn: false,
         url: "https://github.com/prathamesh-a/uppvit-api",
         align: "left"
@@ -91,9 +91,9 @@ export const projects = [
             hover: "https://img.icons8.com/windows/50/A159FF/github.png",
             url: "https://github.com/prathamesh-a/super-combat"
         },
-        img: "../assets/projects/project-supercombat-overlay.jpg",
-        hover: "../assets/projects/project-supercombat.jpg",
-        bg: "../assets/projects/project-supercombat-bg.jpg",
+        img: "./assets/project-supercombat-overlay.jpg",
+        hover: "./assets/project-supercombat.jpg",
+        bg: "./assets/project-supercombat-bg.jpg",
         playBtn: true,
         url: "https://prathamesh-a.github.io/super-combat/",
         align: "right"
@@ -107,9 +107,9 @@ export const projects = [
             hover: "https://img.icons8.com/windows/50/A159FF/github.png",
             url: "https://github.com/prathamesh-a/spynix-logger"
         },
-        img: "../assets/projects/project-spynix-overlay.jpg",
-        hover: "../assets/projects/project-spynix.jpg",
-        bg: "../assets/projects/project-spynix-bg.jpg",
+        img: "./assets/project-spynix-overlay.jpg",
+        hover: "./assets/project-spynix.jpg",
+        bg: "./assets/project-spynix-bg.jpg",
         playBtn: false,
         url: "https://github.com/prathamesh-a/spynix-logger",
         align: "left"
